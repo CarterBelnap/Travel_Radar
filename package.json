@@ -16,5 +16,10 @@
   "bugs": {
     "url": "https://github.com/CarterBelnap/Travel_Radar/issues"
   },
-  "homepage": "https://github.com/CarterBelnap/Travel_Radar#readme"
+  "homepage": "https://github.com/CarterBelnap/Travel_Radar#readme",
+  "dependencies": {
+    "axios": "^1.16.0",
+    "dotenv": "^17.4.2",
+    "nodemailer": "^8.0.7"
+  }
 }

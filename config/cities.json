@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Tokyo",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "newsQuery": "Tokyo Japan",
+    "weatherCity": "Tokyo",
+    "currency": "JPY",
+    "teleportSlug": "tokyo"
+  },
+  {
+    "name": "Reykjavik",
+    "country": "Iceland",
+    "flag": "🇮🇸",
+    "newsQuery": "Iceland Reykjavik",
+    "weatherCity": "Reykjavik",
+    "currency": "ISK",
+    "teleportSlug": "reykjavik"
+  },
+  {
+    "name": "Athens",
+    "country": "Greece",
+    "flag": "🇬🇷",
+    "newsQuery": "Athens Greece",
+    "weatherCity": "Athens",
+    "currency": "EUR",
+    "teleportSlug": "athens"
+  }
+]
